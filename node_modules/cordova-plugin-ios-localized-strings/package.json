@@ -1,0 +1,109 @@
+{
+  "_args": [
+    [
+      {
+        "raw": "cordova-plugin-ios-localized-strings",
+        "scope": null,
+        "escapedName": "cordova-plugin-ios-localized-strings",
+        "name": "cordova-plugin-ios-localized-strings",
+        "rawSpec": "",
+        "spec": "latest",
+        "type": "tag"
+      },
+      "/Users/falcondev1/Desktop/Source/RoundingCordovaUpdate/node_modules"
+    ]
+  ],
+  "_from": "cordova-plugin-ios-localized-strings@latest",
+  "_id": "cordova-plugin-ios-localized-strings@1.0.5",
+  "_inCache": true,
+  "_location": "/cordova-plugin-ios-localized-strings",
+  "_nodeVersion": "6.9.1",
+  "_npmOperationalInternal": {
+    "host": "packages-18-east.internal.npmjs.com",
+    "tmp": "tmp/cordova-plugin-ios-localized-strings-1.0.5.tgz_1487186096338_0.8603788076434284"
+  },
+  "_npmUser": {
+    "name": "enricodeleo",
+    "email": "hello@enricodeleo.com"
+  },
+  "_npmVersion": "3.10.8",
+  "_phantomChildren": {},
+  "_requested": {
+    "raw": "cordova-plugin-ios-localized-strings",
+    "scope": null,
+    "escapedName": "cordova-plugin-ios-localized-strings",
+    "name": "cordova-plugin-ios-localized-strings",
+    "rawSpec": "",
+    "spec": "latest",
+    "type": "tag"
+  },
+  "_requiredBy": [
+    "#USER",
+    "/"
+  ],
+  "_resolved": "https://registry.npmjs.org/cordova-plugin-ios-localized-strings/-/cordova-plugin-ios-localized-strings-1.0.5.tgz",
+  "_shasum": "a78c971a70d9957cfcbb4465083ff1a5ca07cb6f",
+  "_shrinkwrap": null,
+  "_spec": "cordova-plugin-ios-localized-strings",
+  "_where": "/Users/falcondev1/Desktop/Source/RoundingCordovaUpdate/node_modules",
+  "author": {
+    "name": "Enrico Deleo",
+    "email": "hello@enricodeleo.com",
+    "url": "http://enricodeleo.com/"
+  },
+  "bugs": {
+    "url": "https://github.com/enricodeleo/cordova-plugin-ios-localized-strings/issues"
+  },
+  "cordova": {
+    "id": "cordova-plugin-ios-localized-strings",
+    "platforms": [
+      "ios"
+    ]
+  },
+  "dependencies": {
+    "plist": "^2.0.1"
+  },
+  "description": "Cordova / PhoneGap Plugin that exposes supported languages to the App Store (iTunes).",
+  "devDependencies": {},
+  "directories": {},
+  "dist": {
+    "shasum": "a78c971a70d9957cfcbb4465083ff1a5ca07cb6f",
+    "tarball": "https://registry.npmjs.org/cordova-plugin-ios-localized-strings/-/cordova-plugin-ios-localized-strings-1.0.5.tgz"
+  },
+  "engines": [
+    {
+      "name": "cordova",
+      "version": ">=3.0.0"
+    }
+  ],
+  "gitHead": "7705b74c9d22c4aa173247d343f3345e0cf28940",
+  "homepage": "https://github.com/enricodeleo/cordova-plugin-ios-localized-strings#readme",
+  "keywords": [
+    "cordova",
+    "ios",
+    "app",
+    "languages",
+    "i18n",
+    "appstore",
+    "itunes",
+    "strings",
+    "ecosystem:cordova",
+    "cordova-ios"
+  ],
+  "license": "MIT",
+  "maintainers": [
+    {
+      "name": "enricodeleo",
+      "email": "hello@enricodeleo.com"
+    }
+  ],
+  "name": "cordova-plugin-ios-localized-strings",
+  "optionalDependencies": {},
+  "readme": "ERROR: No README data found!",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/enricodeleo/cordova-plugin-ios-localized-strings.git"
+  },
+  "scripts": {},
+  "version": "1.0.5"
+}

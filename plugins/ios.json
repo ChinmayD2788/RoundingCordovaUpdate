@@ -1,0 +1,89 @@
+{
+    "prepare_queue": {
+        "installed": [],
+        "uninstalled": []
+    },
+    "config_munge": {
+        "files": {}
+    },
+    "installed_plugins": {
+        "cordova-plugin-battery-status": {
+            "PACKAGE_NAME": "io.cordova.helloCordova"
+        },
+        "cordova-plugin-camera": {
+            "CAMERA_USAGE_DESCRIPTION": " ",
+            "PHOTOLIBRARY_USAGE_DESCRIPTION": " ",
+            "PACKAGE_NAME": "io.cordova.helloCordova"
+        },
+        "cordova-plugin-contacts": {
+            "CONTACTS_USAGE_DESCRIPTION": " ",
+            "PACKAGE_NAME": "io.cordova.helloCordova"
+        },
+        "cordova-plugin-device": {
+            "PACKAGE_NAME": "io.cordova.helloCordova"
+        },
+        "cordova-plugin-device-motion": {
+            "PACKAGE_NAME": "io.cordova.helloCordova"
+        },
+        "cordova-plugin-device-orientation": {
+            "PACKAGE_NAME": "io.cordova.helloCordova"
+        },
+        "cordova-plugin-dialogs": {
+            "PACKAGE_NAME": "io.cordova.helloCordova"
+        },
+        "cordova-plugin-file": {
+            "PACKAGE_NAME": "io.cordova.helloCordova"
+        },
+        "cordova-plugin-file-transfer": {
+            "PACKAGE_NAME": "io.cordova.helloCordova"
+        },
+        "cordova-plugin-geolocation": {
+            "GEOLOCATION_USAGE_DESCRIPTION": " ",
+            "PACKAGE_NAME": "io.cordova.helloCordova"
+        },
+        "cordova-plugin-globalization": {
+            "PACKAGE_NAME": "io.cordova.helloCordova"
+        },
+        "cordova-plugin-inappbrowser": {
+            "PACKAGE_NAME": "io.cordova.helloCordova"
+        },
+        "cordova-plugin-media": {
+            "MICROPHONE_USAGE_DESCRIPTION": " ",
+            "PACKAGE_NAME": "io.cordova.helloCordova"
+        },
+        "cordova-plugin-media-capture": {
+            "CAMERA_USAGE_DESCRIPTION": " ",
+            "MICROPHONE_USAGE_DESCRIPTION": " ",
+            "PHOTOLIBRARY_USAGE_DESCRIPTION": " ",
+            "PACKAGE_NAME": "io.cordova.helloCordova"
+        },
+        "cordova-plugin-network-information": {
+            "PACKAGE_NAME": "io.cordova.helloCordova"
+        },
+        "cordova-plugin-splashscreen": {
+            "PACKAGE_NAME": "io.cordova.helloCordova"
+        },
+        "cordova-plugin-statusbar": {
+            "PACKAGE_NAME": "io.cordova.helloCordova"
+        },
+        "cordova-plugin-vibration": {
+            "PACKAGE_NAME": "io.cordova.helloCordova"
+        },
+        "cordova-plugin-whitelist": {
+            "PACKAGE_NAME": "io.cordova.helloCordova"
+        },
+        "jp.wizcorp.phonegap.plugin.wizUtilsPlugin": {
+            "PACKAGE_NAME": "io.cordova.helloCordova"
+        },
+        "cordova-plugin-ios-localized-strings": {
+            "MAIN_LANGUAGE": "English",
+            "ADDITIONAL_LANGUAGES": "it,fr,de",
+            "PACKAGE_NAME": "com.DavitaVH.$(BUNDLE_ID_SUFFIX)"
+        }
+    },
+    "dependent_plugins": {
+        "cordova-plugin-compat": {
+            "PACKAGE_NAME": "io.cordova.helloCordova"
+        }
+    }
+}
